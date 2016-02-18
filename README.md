@@ -1,7 +1,5 @@
 Pimp my Fractale
 
-Dossier de rendu : https://rendu-svn.etna-alternance.net/v2/2020_Prep'ETNA_CMG-MAT1_3_0-1534/Pimp my fractale/marque_b
-
 Langage : PHP, JS, HTML, CSS
 
 Notions
